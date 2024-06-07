@@ -14,3 +14,4 @@ The model achieved an accuracy of 99.98%, precision of 99.97%, and recall score 
 Depoloyment
 In order to deploy the fraud detection model, I have used streamlit.
 Here is the link to the web application:  https://credit-card-fraud-detection-g65v2fya2awucxn6pzkwtb.streamlit.app/
+V1-V28: may be result of a PCA Dimensionality reduction to protect user identities and sensitive features.
